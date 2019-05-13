@@ -1,4 +1,9 @@
-Matlab code of the Bartos et al. model of IKs in rabbit ventricular myocytes
+Bartos et al. model of rabbit ventricular myocytes with updated IKs formulation
+
+This model was developed modifying the formulation of the delayed rectifier K current IKs
+in the parent model developed by Negroni et al. (J Mol Cell Cardiol. 2015 Apr;81:162-75,
+available for download on this website).
+The new formulation reproduces the Ca2+-dependent regulation of IKs experimentally observed.
 
 ___________________________________________________________________________________________
 Contents:
@@ -38,4 +43,4 @@ Negroni JA, Morotti S, Lascano EC, Gomes AV, Grandi E, Puglisi JL, Bers DM.
 ventricular myocyte model.
 J Mol Cell Cardiol. 2015 Apr;81:162-75. doi: https://doi.org/10.1016/j.yjmcc.2015.02.014
 
-Please cite the above papers when using this model.
+Please, cite the above papers when using this model.
